@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/b0314552/DS-Algo/Lec_1",
+      "program": "/Users/b0314552/DS-Algo/Lec_1/build/Debug/outDebug"
+    }
+  ]
+}
